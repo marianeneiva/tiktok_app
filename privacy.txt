@@ -1,0 +1,7 @@
+Personal TikTok Automation Tool - Privacy Policy
+
+This tool:
+- Only accesses my own TikTok account via official API
+- Does not collect or store user data from others
+- Uses TikTok access tokens securely for posting automation
+- No data is shared with third parties
